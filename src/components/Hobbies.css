@@ -1,0 +1,17 @@
+.hobbies-container {
+  width: 300px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+ul {
+  list-style-type: square;
+  padding: 0;
+}
+
+li {
+  background-color: #f0f0f0;
+  margin: 8px 0;
+  padding: 8px;
+  border-radius: 5px;
+}

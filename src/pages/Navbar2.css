@@ -1,0 +1,21 @@
+.nav2 {
+  background: #111;
+  padding: 15px;
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+}
+
+.nav2-link {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 8px 18px;
+  border-radius: 5px;
+}
+
+.nav2-link.active {
+  background: #f1c40f;
+  color: black;
+  font-weight: bold;
+}

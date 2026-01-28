@@ -1,0 +1,29 @@
+.bio {
+    max-width: 400px;
+    padding: 20px;
+    margin: 20px auto;
+    background: #a8cfd1;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bio h2 {
+    margin-bottom: 10px;
+    color: #0b7cee;
+    font-size: 24px;
+}
+
+.bio p {
+    margin: 6px 0;
+    color: #555;
+    font-size: 16px;
+}
+
+.bio-text {
+    margin-top: 12px;
+    font-style: italic;
+    color: #250101;
+    line-height: 1.5;
+}

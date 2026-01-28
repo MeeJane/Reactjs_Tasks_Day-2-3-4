@@ -10,7 +10,7 @@ import { LanguageProvider64 } from "./context/LanguageContext64";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter basename="/Reactjs_Tasks_Day-1/">
+    <BrowserRouter basename="/">
       <ThemeProvider61>
         <AuthProvider62>
           <CounterProvider63>
@@ -21,5 +21,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         </AuthProvider62>
       </ThemeProvider61>
     </BrowserRouter>
+
   </React.StrictMode>
 );
